@@ -1,0 +1,8 @@
+E001|Treadmill|Under Maintenance
+E002|Elliptical Machine|Available
+E003|Stationary Bike|Available
+E004|Leg Press Machine|Available
+E005|Dumbbell Set (5-50kg)|Available
+E006|Smith Machine|Available
+E007|Cable Crossover Machine|Available
+E008|Rowing Machine|Available

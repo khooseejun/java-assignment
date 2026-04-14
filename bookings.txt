@@ -1,0 +1,2 @@
+BK-1001|MB003|C001|2026-03-09|Confirmed|Basic
+BK-1002|MG002|C002|2026-03-10|Confirmed|Gold
